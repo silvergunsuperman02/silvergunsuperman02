@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @silvergunsuperman02
 - 👀 I’m interested in ... game design and game programming
-- 🌱 I’m currently learning ... game creation with unity
+- 🌱 I’m currently learning ... game development with unity
 - 💞️ I’m looking to collaborate on ... NOTHING
 - 📫 How to reach me ... silvergunsuperman02@gmail.com
 
